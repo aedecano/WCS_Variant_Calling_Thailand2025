@@ -23,7 +23,8 @@ Before starting, ensure you have the following software installed:
 
 ## Data Preparation
 
-Grab the raw fastq files from ENA
+Grab the raw fastq files from ENA. We will map Illumina short read data associated with the outbreak case isolate you've been assigned. If you have been assigned a case isolate of a different bacterial species other than Klebsiella pneumoniae, use the following run accession as an example to execute the commands below: ERR4095905 (c/o Dr. Francesc Coll).
+
 
 ```
 wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR409/005/ERR4095905/ERR4095905_1.fastq.gz
