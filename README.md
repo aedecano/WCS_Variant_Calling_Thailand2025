@@ -48,10 +48,10 @@ wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR409/005/ERR4095905/ERR4095905_2.fastq
      ```
 ### 3. Make sure you're in the correct working directory where the files are accessible
 
-    ```  
+ 
      cd home/data/
      
-    ```
+
     
 ## Short Read Alignment and SNP Calling with Snippy
 
